@@ -75,7 +75,7 @@
           {% if type == "hotline" %}
           {% for role in resource.role %}
           {% if role == "footer" %}
-          <div itemscope class="hotline" itemtype="http://schema.org/Organization">
+          <div itemscope class="hotline" itemtype="https://schema.org/Organization">
             <div class="hotline-name" itemprop="name"><a href="{{ resource.url }}">{{ resource.name }}</a></div>
             {% if resource.tel %}
               <div class="hotline-tel" itemprop="telephone">{{ resource.tel }}</div>
@@ -127,13 +127,13 @@
       <div class="site-footer-region fold">
         <div class="site-footer-area aside">
           <div class="credit">
-            <a class="credit-title img oneistwomany" style="background-image:url('{{ site.baseurl }}/static/img/1is2many.png');" href="http://whitehouse.gov/1is2many">1is2 Many</a>
-             In Partnership with <a href="http://whitehouse.gov/1is2many">www.whitehouse.gov/1is2many</a>
+            <a class="credit-title img oneistwomany" style="background-image:url('{{ site.baseurl }}/static/img/1is2many.png');" href="https://www.whitehouse.gov/1is2many">1is2 Many</a>
+             In Partnership with <a href="https://www.whitehouse.gov/1is2many">www.whitehouse.gov/1is2many</a>
           </div>
 
           <div class="credit">
             <a class="credit-title img eighteenf" style="background-image:url('{{ site.baseurl }}/static/img/18f.png');" href="https://18f.gsa.gov">18F</a>
-            Made by <a href="https://18f.gsa.gov">18F</a> and <a href="http://whitehouse.gov/innovationfellows">Presidential Innovation Fellows</a>
+            Made by <a href="https://18f.gsa.gov">18F</a> and <a href="https://www.whitehouse.gov/innovationfellows">Presidential Innovation Fellows</a>
           </div>
         </div>
         <div class="site-footer-area primary disclaimer">
