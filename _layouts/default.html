@@ -101,7 +101,7 @@
             <div class="site-footer-area-title"><a href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a></div>
             <ul class="site-footer-nav nav-list">
               {% for subnav in node.subnav %}
-                <li><a href="{{ site.baseurl }}{{ subnav.url }}">{{ subnav.title }}</a></li>
+                <li><a href="{{ site.baseurl }}/{{ subnav.url }}">{{ subnav.title }}</a></li>
               {% endfor %}
             </ul>
           </div>
