@@ -51,8 +51,11 @@ On September 17, 2015, we released a [Resource Guide](https://www.notalone.gov/a
 <br>
 
 ## Public Service Announcement
+
+{::nomarkdown}
 <style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/xLdElcv5qqc' frameborder='0' allowfullscreen></iframe></div><br /><br />
 <div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/wNMZo31LziM' frameborder='0' allowfullscreen></iframe></div><br /><br />
 <div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/XXox6ma1gtE' frameborder='0' allowfullscreen></iframe></div><br /><br />
 <div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/sTHNAwCU-bk' frameborder='0' allowfullscreen></iframe></div><br /><br />
+{:/}
