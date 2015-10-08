@@ -37,7 +37,7 @@
   <body>
     <div class="usa">An official website of the United States Government <img class="flag" alt="US flag signifying that this is a United States Federal Government website" src="{{ site.baseurl }}/static/img/us_flag_small.png" class="USA Flag" /></div>
     <header role="banner" class="site-header">
-      <a class="btn btn-escape" href="http://google.com" id="escape">Escape</a>
+      <a class="btn btn-escape" href="https://www.google.com" id="escape">Escape</a>
       <div class="container">
         <div class="site-header-content">
           <hgroup>
@@ -75,7 +75,7 @@
           {% if type == "hotline" %}
           {% for role in resource.role %}
           {% if role == "footer" %}
-          <div itemscope class="hotline" itemtype="http://schema.org/Organization">
+          <div itemscope class="hotline" itemtype="https://schema.org/Organization">
             <div class="hotline-name" itemprop="name"><a href="{{ resource.url }}">{{ resource.name }}</a></div>
             {% if resource.tel %}
               <div class="hotline-tel" itemprop="telephone">{{ resource.tel }}</div>
@@ -127,13 +127,13 @@
       <div class="site-footer-region fold">
         <div class="site-footer-area aside">
           <div class="credit">
-            <a class="credit-title img oneistwomany" style="background-image:url('{{ site.baseurl }}/static/img/1is2many.png');" href="http://whitehouse.gov/1is2many">1is2 Many</a>
-             In Partnership with <a href="http://whitehouse.gov/1is2many">www.whitehouse.gov/1is2many</a>
+            <a class="credit-title img oneistwomany" style="background-image:url('{{ site.baseurl }}/static/img/1is2many.png');" href="https://www.whitehouse.gov/1is2many">1is2 Many</a>
+             In Partnership with <a href="https://www.whitehouse.gov/1is2many">www.whitehouse.gov/1is2many</a>
           </div>
 
           <div class="credit">
             <a class="credit-title img eighteenf" style="background-image:url('{{ site.baseurl }}/static/img/18f.png');" href="https://18f.gsa.gov">18F</a>
-            Made by <a href="https://18f.gsa.gov">18F</a> and <a href="http://whitehouse.gov/innovationfellows">Presidential Innovation Fellows</a>
+            Made by <a href="https://18f.gsa.gov">18F</a> and <a href="https://www.whitehouse.gov/innovationfellows">Presidential Innovation Fellows</a>
           </div>
         </div>
         <div class="site-footer-area primary disclaimer">
