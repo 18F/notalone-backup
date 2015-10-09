@@ -96,6 +96,10 @@ The U.S. Department of Education’s Office for Civil Rights and the U.S. Depart
 - A criminal investigation into allegations of sexual violence does not relieve a school of its duty under Title IX to resolve reports promptly and effectively.
 
 - A school must ensure that the person who experienced the sexual violence is safe, even while an investigation is ongoing.
+
+<div class="section-context-links">
+* [Read Valerie Jarrett’s blog post, “Four Critical Questions for the College Search,” posted on Yahoo! Parenting on October 9, 2015.]({{ site.baseurl }}/assets/example.pdf)
+</div>
 </div>
 </div>
 
