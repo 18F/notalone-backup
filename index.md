@@ -25,6 +25,8 @@ April 29, 2014, we released our first report, which can be viewed here](https://
 
 On September 17, 2015, we released a [Resource Guide](https://www.notalone.gov/assets/task-force-resource-guide-sep-15.pdf) to support the efforts of students, faculty, administrators, and communities around the country to prevent and improve the response to sexual violence at colleges and universities. This guide includes links to documents, guidance, and tools from the task force and other advocacy groups.
 
+Valerie Jarrett wrote a blog for Yahoo! Parenting on October 9, 2015 to help prospective students and parents, as they visit colleges, to navigate the sexual assault policies, procedures, and resources available on campus. [Read the blog post, “Four Critical Questions for the College Search.”](https://www.notalone.gov/assets/4-questions-you-should-ask.pdf)
+
 {::nomarkdown}
 <a class="btn action" href="#find-box">Explore</a>
 {:/}
