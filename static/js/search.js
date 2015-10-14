@@ -15,14 +15,14 @@ $( document ).ready(function() {
       }
     }
   }​
-  
+
   var query = GetURLParameter('q');
-  
+
   if(query) {
     $("input#q").val(query);
     $("#search-result-list").append('<div class="loading"><span class="glyphicon glyphicon-refresh"></span> Loading</div>');
     $.ajax({
-      url: "//api.data.gov/beckley/v0/resources/notalone/?q=" + query + "&size=200&from=0&api_key=TRuYxi0630m5Y4D3ECUjxzdaVNaShjxq6u68MkGx",
+      url: "//api.data.gov/beckley-federalist/v0/resources/notalone/?q=" + query + "&size=200&from=0&api_key=TRuYxi0630m5Y4D3ECUjxzdaVNaShjxq6u68MkGx",
       cache: false,
       dataType: "json"
     })
