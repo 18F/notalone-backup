@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Contact
-description: Information about how to access hotlines, give feedback, and contact the White House Task Force to Protect Students from Sexual Assault.
 permalink: /contact/
+description: Information about how to access hotlines, give feedback, and contact the White House Task Force to Protect Students from Sexual Assault.
 ---
 
 

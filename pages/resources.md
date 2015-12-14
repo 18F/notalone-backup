@@ -61,11 +61,11 @@ Find publicly supported health services including health centers, mental health 
 *	[Mental health providers](http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/quickSearch.jspx)
 
 [The Office on Women's Health](http://www.womenshealth.gov/violence-against-women/index.html)
-<br>
+
 This webpage includes information on: what rape and sexual assault are; health effects; how to get help; how to stay safe; and where to find more information.
 
 [Health Cares About IPV](http://www.healthcaresaboutipv.org/)
-<br>
+
 Health Cares about IPV is a federally funded program that provides training and technical assistance to over 22,000 health care professionals working to implement best practices for treating intimate partner violence (IPV) and dating violence survivors, including new guidelines to screen for abuse and refer patients to services.
 
 ### Prevention Programs

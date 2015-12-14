@@ -72,8 +72,7 @@ Tips for preventing sexual assault as a bystander:
 _It’s on all of us to stop sexual assault._
 
 ## Know Your Rights
-<div class="section-context">
-<div class="section-context-text">
+
 ### Your Title IX Rights
 Title IX of the Education Amendments of 1972 is a federal civil rights law that prohibits sex discrimination in educational programs and activities receiving federal funding, including colleges and universities, and elementary and secondary schools.
 
@@ -81,14 +80,12 @@ All students – women, girls, men, and boys; straight, lesbian, gay, bisexual, 
 
 The U.S. Department of Education’s Office for Civil Rights and the U.S. Department of Justice’s Civil Rights Division enforce Title IX in our nation’s schools. Sex-based discrimination in public schools also implicates legal rights under Title IV of the Civil Rights Act, which is enforced by the U.S. Department of Justice.
 
-<div class="section-context-links">
 * [Find out more about your rights under Title IX]({{ site.baseurl }}/assets/know-your-rights.pdf)
 * [Conoce tus derechos: El Título IX requiere que tu escuela tome medidas contra la violencia sexual]({{ site.baseurl }}/assets/know-your-rights-espanol.pdf)
 * [Review school-by-school enforcement actions]({{ site.baseurl }}/data#school-by-school-enforcement-map)
-</div>
-</div>
 
-<div class="section-context-text">
+---
+
 #### What are a school’s responsibilities under Title IX to address sexual violence?
 - A school has a responsibility to respond promptly and effectively to reports of sexual violence.
 
@@ -97,13 +94,10 @@ The U.S. Department of Education’s Office for Civil Rights and the U.S. Depart
 
 - A school must ensure that the person who experienced the sexual violence is safe, even while an investigation is ongoing.
 
-<div class="section-context-links">
 * [Read Valerie Jarrett’s blog post, “Four Critical Questions for the College Search,” posted on Yahoo! Parenting on October 9, 2015.]({{ site.baseurl }}/assets/4-questions-you-should-ask.pdf)
-</div>
-</div>
-</div>
 
 ## How Do I File a Complaint About My School? And Then What Happens?
+
 <div class="section-context">
 ### Can I File a Complaint?
 
@@ -130,8 +124,9 @@ Both OCR and DOJ can and do conduct proactive compliance reviews under Title IX 
 
 {% include image.html file="ocrcomplaintinfographic.png" alt="How to file a complaint." %}
 <div class="section-context">
-<div class="resource-cite">Adapted from design by Christina S. Kang, licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License.
-</div>
+
+> Adapted from design by Christina S. Kang, licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License.
+
 </div>
 
 You may file a complaint [online](https://ocrcas.ed.gov/), via [email](mailto:ocr@ed.gov), or by mail/fax by [contacting your regional enforcement office](https://wdcrobcolp01.ed.gov/CFAPPS/OCR/contactus.cfm).
@@ -156,6 +151,7 @@ Educational Opportunities Section, PHB<br>
 Washington, D.C. 20530<br>
 </div>
 <div class="section-context-text">
+
 ####Your complaint should include:
 
 - Your name
@@ -174,9 +170,7 @@ After receiving a complaint, DOJ conducts an initial review. DOJ will inform you
 
 ## Will What I Share With My School Remain Confidential?
 
-<div class="section-context">
 ###Understanding Confidentiality
-<div class="section-context-text">
 
 Sexual assault survivors respond in different ways. Some are able to be public about what has happened to them. Some are ready to press forward with a formal complaint. Others aren’t so sure. And they need someone they can talk to confidentially -- to try to regain a sense of control, to start healing, and to sort through their options at their own pace.
 
@@ -188,9 +182,9 @@ To help make you more aware of your options, we offer [a sample policy](https://
 
 
 In general, rape crisis center advocates not associated with the school can speak with you confidentially. But because state law is always changing, be sure to check the accuracy of this information.
-</div>
 
-<div class="section-context-text">
+---
+
 #### State Confidentiality Laws
 While this list is a helpful tool, it is not a replacement for asking the person whether or not they are a confidential resource. Since state law is constantly changing on this issue, **be sure to verify the information** provided in this [guide to state laws covering confidentiality.](http://www.americanbar.org/content/dam/aba/uncategorized/cdsv-related/Advocate_Confidentiality_Chart_2_2014.authcheckdam.pdf)
 
@@ -198,12 +192,8 @@ While this list is a helpful tool, it is not a replacement for asking the person
 
 Student health records at most schools are protected by a federal law called FERPA.  For health care students receive outside of the school setting, in most cases, a federal law called HIPAA protects the information.
 
-<div class="section-context-links">
 * [View answers to frequently asked questions on FERPA and HIPAA and more detailed guidance on the application of FERPA and HIPAA to student health records](http://www.hhs.gov/ocr/privacy/hipaa/faq/ferpa_and_hipaa/)
 * [View joint guidance from the Departments of Education and Health and Human Services on FERPAA and HIPAA](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/hipaaferpajointguide.pdf)
-</div>
-</div>
-</div>
 
 
 ## Key Terms and Definitions

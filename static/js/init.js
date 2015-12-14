@@ -41,8 +41,14 @@ $(".nav-toggle").click(function() {
 
 // Add default position on scroll back to top
 $(document).ready(function () {
-  // ;)
-  window.console && console.log("Crafted with love by Presidential Innovation Fellows <http://whitehouse.gov/innovationfellows> and 18F <https://18f.gsa.gov>>.");
+  if (window.console) console.log("Crafted with love by Presidential Innovation Fellows <http://whitehouse.gov/innovationfellows> and 18F <https://18f.gsa.gov>>.");
+
+  // Link styles
+  $('.main-content li a').each(function() {
+    if ($(this).parent().contents()[0] === $(this)[0]) {
+      $(this).addClass('feature-link');
+    }
+  });
 });
 
 
@@ -57,12 +63,22 @@ $(function() {
       return "<button title='Expand section'></button>";
     });
 
+    $collapsibles.each(function() {
+      var $content = $(this).nextUntil('h2,footer'),
+          split = $content.index($content.prevAll('hr'));
+      if (split === -1) return;
+      $content.wrapAll('<div class="section-context"></div>');
+      $content.slice(0, split).wrapAll('<div class="section-context-text">');
+      $content.slice(split).wrapAll('<div class="section-context-text">');
+      $content.prevAll('hr').remove();
+    });
+
     $collapsibles.not(':first')
       .before('<div class="close-collapsible"><button class="btn">Close</button></div>');
     $collapsibles.last().nextUntil('footer').last()
       .after('<div class="close-collapsible"><button class="btn">Close</button></div>');
     $collapsibles.addClass('collapsible').nextUntil('h2,footer').addClass('inactive');
-    
+
     $collapsibles.on('click', function() {
       $collapsibles.not(this).removeClass('selected').nextUntil('h2,footer').addClass('inactive');
       $(this).toggleClass('selected');
@@ -71,14 +87,13 @@ $(function() {
     });
 
     $('.close-collapsible button.btn').on('click', function() {
-      ;
       $(this).parent().addClass('inactive'); // hide the close button itself
       $(this).parent().prevUntil('h2').addClass('inactive'); // roll up
       var $section_header = $(this).parent().prevUntil('h2').last().prev();
       $section_header.toggleClass('selected'); // un-select section header
       $(window).scrollTop(last_scrollTop); // scroll to where you were when you expanded this section
-    }); 
-    if (window.location.hash != '') {
+    });
+    if (window.location.hash !== '') {
       $(window.location.hash).nextUntil('h2,footer').removeClass('inactive');
       $(window.location.hash).toggleClass('selected');
     }
@@ -87,7 +102,6 @@ $(function() {
 
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
-    this.click
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -99,8 +113,8 @@ $(function() {
       }
     }
   });
-  
-  if (window.location.hash != '') {
+
+  if (window.location.hash !== '') {
 
     var target = window.location.hash;
     $(target).addClass('hash-scrolled');

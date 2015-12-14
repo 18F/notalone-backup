@@ -5,7 +5,6 @@ description: Sexual assault resources and information for students, schools, and
 permalink: /
 ---
 
-<div class="top-message">
 NotAlone.gov includes information for students, schools, and anyone interested in finding resources on how to respond to and prevent sexual assault.
 
 Click below to find a crisis service, learn more about students' rights, identify schools' obligations to protect students from sexual assault, understand how to file a complaint with the federal government, and view a map of resolved school-level enforcement activities.
@@ -27,14 +26,11 @@ On September 17, 2015, we released a [Resource Guide](https://www.notalone.gov/a
 
 Valerie Jarrett wrote a blog for Yahoo! Parenting on October 9, 2015 to help prospective students and parents, as they visit colleges, to navigate the sexual assault policies, procedures, and resources available on campus. [Read the blog post, “Four Critical Questions for the College Search.”](https://www.notalone.gov/assets/4-questions-you-should-ask.pdf)
 
-{::nomarkdown}
 <a class="btn action" href="#find-box">Explore</a>
-{:/}
-</div>
+
 
 {% include find-box.html %}
 
-<div id="tools">
 {% include section-box.html title="FIND A CRISIS SERVICE" url="/resources/#find-a-service-near-you" image="find-a-service.png" text="Locate services and resources in your area to get support if you or someone you know is in a crisis situation." class="find-a-service" %}
 
 {% include section-box.html title="Know Your Rights" url="/students/#know-your-rights" image="know-your-rights.png" text="Learn about your rights, as a student, under federal law and your school's responsibility to respond to sexual violence." class="know-your-rights" %}
@@ -44,20 +40,11 @@ Valerie Jarrett wrote a blog for Yahoo! Parenting on October 9, 2015 to help pro
 {% include section-box.html title="School-by-School Enforcement Map" url="/data/#school-by-school-enforcement-map" image="enforcement-map.png" text="View resolution agreements and compliance reports by the U.S. Departments of Education and Justice evaluating institutions' compliance with Title IX, Title IV, and the Clery Act." class="track-reports" %}
 
 {% include section-box.html title="CHANGING OUR CAMPUS CULTURE" url="http://www.changingourcampus.org/" image="change-your-campus.png" text="An Online Resource to Address Sexual Assault, Domestic Violence, Dating Violence and Stalking (The Center) is supported by the Department of Justice's Office on Violence Against Women in collaboration with its designated Campus Program Technical Assistance Provider Team. This comprehensive online clearinghouse provides important resources for colleges and universities on sexual assault, domestic violence, dating violence, and stalking." class="changing-our-campus" %}
-</div>
 
-<div class="top-message">
-
-</div>
-<br>
-<br>
 
 ## Public Service Announcement
 
-{::nomarkdown}
-<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-<div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/xLdElcv5qqc' frameborder='0' allowfullscreen></iframe></div><br /><br />
-<div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/wNMZo31LziM' frameborder='0' allowfullscreen></iframe></div><br /><br />
-<div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/XXox6ma1gtE' frameborder='0' allowfullscreen></iframe></div><br /><br />
-<div class='embed-container'><iframe src='//www.youtube-nocookie.com/embed/sTHNAwCU-bk' frameborder='0' allowfullscreen></iframe></div><br /><br />
-{:/}
+{% include youtube.html id="xLdElcv5qqc" %}
+{% include youtube.html id="wNMZo31LziM" %}
+{% include youtube.html id="XXox6ma1gtE" %}
+{% include youtube.html id="sTHNAwCU-bk" %}
