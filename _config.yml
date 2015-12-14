@@ -13,3 +13,6 @@ kramdown:
   parse_block_html: true
 
 cachebuster: '0426131729'
+
+include:
+  - _navigation.json

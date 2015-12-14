@@ -6,41 +6,34 @@ permalink: /schools/
 ---
 
 ## Federal Guidance
-<div class="section-context">
+
 ### Title IX Compliance Requirements
-<div class="section-context-text">
+
 #### Questions and Answers on Title IX and Sexual Violence (2014)
 
 - In April 2014, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a question-and-answer document to provide additional guidance to federally funded schools about their obligations under Title IX to address sexual violence.
 - This guidance further clarifies the legal requirements under Title IX articulated in OCR’s 2011 Dear Colleague Letter on Sexual Violence and its 2001 Revised Sexual Harassment Guidance.
 -	Although some examples in this Q&A are applicable only to institutions of higher education, the legal obligations outlined in the letter also apply to elementary and secondary schools.
 
-<div class="section-context-links">
 * [Read the question-and-answer document](http://www2.ed.gov/about/offices/list/ocr/docs/qa-201404-title-ix.pdf)
-</div>
 
 #### Dear Colleague Letter and Resource Guide on Title IX Coordinators (2015)
 
 * In April 2015, the U.S. Department of Education’s Office for Civil Rights (OCR) issued a guidance package emphasizing the responsibility of school districts, colleges, and universities to designate a Title IX coordinators.
 * This guidance package includes three documents: a Dear Colleague Letter to school districts, colleges, and universities reminding them of their obligation to designate a Title IX coordinator; a letter to Title IX coordinators that provides them with more information about their important role; and a Title IX resource guide that includes an overview of Title IX’s requirements in several key areas, including sex-based harassment.
 
-<div class="section-context-links">
 * [Read the guidance package on Title IX coordinators](http://www2.ed.gov/policy/rights/guid/ocr/title-ix-coordinators.html)
-</div>
-</div>
 
-<div class="section-context-text">
+---
+
 #### Retaliation Guidance (2013)
 
 -	In April 2013, the U.S. Department of Education’s Office for Civil Rights (OCR) issued guidance to remind federally funded schools that retaliation is a violation of federal law.
 - Under federal civil rights laws, including Title IX, it is illegal for a school to retaliate against an individual for speaking out against possible civil rights problems at the school.
 - The prohibition against retaliation means that if a student, parent, teacher, professor, coach, or other individual complains formally or informally to a school about a potential civil rights violation, such as failure to address sexual violence, or participates in an OCR or school investigation or proceeding, the school is prohibited from retaliating against the individual because of their complaint or participation.
 
-<div class="section-context-links">
 * [Read the retaliation guidance](https://www2.ed.gov/about/offices/list/ocr/letters/colleague-201304.pdf)
-</div>
-</div>
-</div>
+
 
 <div class="section-context">
 <div class="section-context-text">

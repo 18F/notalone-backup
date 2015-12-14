@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 subtitle: '"Perhaps most important, we need to keep saying to anyone out there who has ever been assaulted:  you are not alone. <br>We have your back. I’ve got your back."<em class="citation">President Barack Obama, January 22, 2014</em>'
 description: Sexual assault resources and information for students, schools, and advocates.
 permalink: /
