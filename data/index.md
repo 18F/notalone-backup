@@ -30,3 +30,7 @@ Data.gov contains thousands of agency data sets, tools, and research to conduct 
 <div class="section-context-links">
 * [View data sets related to sexual assault on Data.gov](http://catalog.data.gov/dataset?q=sexual+assault&sort=score+desc%2C+name+asc)
 </div>
+
+## Clery Act Data
+
+The Department of Education maintains individual school level data about campus crime and makes this data publicly available at: [http://ope.ed.gov/security](http://ope.ed.gov/security).  This data is submitted by each higher education institution pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (Clery Act), and is updated on a yearly basis.  For the first time, in 2015, institutions must now report the name and contact information of the school’s lead Title IX Coordinator.
