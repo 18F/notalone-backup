@@ -30,7 +30,7 @@ Everyone is different, but it is good to understand [what you might expect](http
 
 #### Let others help.
 *	**Friends and family** can offer support by listening to you, keeping you company, walking to class or school with you, or going with you to appointments.
-*	**Campus health centers, school nurses and counselors, and local clinics** can provide health services and help you find additional health resources including counseling.
+*	**Campus health centers, school nurses and counselors, and local clinics** can provide health services and help you find additional health resources including counseling.
     * If you are concerned about confidentiality: Ask the person you want to talk to first about his/her obligation to disclose information you share (e.g., are they required to file a report?). [See]({{ site.baseurl }}/students#will-what-i-share-remain-confidential) more information.
 * **Local rape crisis center staff members** are experienced and can help you navigate the process. They can help you make choices about reporting an assault, joining a support group, or finding a counselor.
 * [Learn more about your Title IX right]({{ site.baseurl }}/assets/know-your-rights.pdf) to receive some immediate protection and help from your school, such as changing classes or dorms.
@@ -73,6 +73,9 @@ _It’s on all of us to stop sexual assault._
 
 ## Know Your Rights
 
+{% include div.html class="section-context" %}
+{% include div.html class="section-context-text" %}
+
 ### Your Title IX Rights
 Title IX of the Education Amendments of 1972 is a federal civil rights law that prohibits sex discrimination in educational programs and activities receiving federal funding, including colleges and universities, and elementary and secondary schools.
 
@@ -84,7 +87,8 @@ The U.S. Department of Education’s Office for Civil Rights and the U.S. Depart
 * [Conoce tus derechos: El Título IX requiere que tu escuela tome medidas contra la violencia sexual]({{ site.baseurl }}/assets/know-your-rights-espanol.pdf)
 * [Review school-by-school enforcement actions]({{ site.baseurl }}/data#school-by-school-enforcement-map)
 
----
+{% include div-close.html %}
+{% include div.html class="section-context-text" %}
 
 #### What are a school’s responsibilities under Title IX to address sexual violence?
 - A school has a responsibility to respond promptly and effectively to reports of sexual violence.
@@ -96,45 +100,55 @@ The U.S. Department of Education’s Office for Civil Rights and the U.S. Depart
 
 * [Read Valerie Jarrett’s blog post, “Four Critical Questions for the College Search,” posted on Yahoo! Parenting on October 9, 2015.]({{ site.baseurl }}/assets/4-questions-you-should-ask.pdf)
 
+{% include div-close.html %}
+{% include div-close.html %}
+
 ## How Do I File a Complaint About My School? And Then What Happens?
 
-<div class="section-context">
+{% include div.html class="section-context" %}
+
 ### Can I File a Complaint?
 
-<div class="section-context-text">
+{% include div.html class="section-context-text" %}
+
 If you believe you are a victim of sex-based discrimination by, in, or under an educational program receiving funding from the federal government, you can file a Title IX complaint with both the U.S. Department of Education and the U.S. Department of Justice (DOJ). Programs or activities receiving federal financial assistance include all public elementary and secondary schools (both traditional and charter) and postsecondary schools. Title IX also applies to most private colleges and universities because Title IX applies to any school that accepts students who pay, in part, with federal financial aid directly distributed to the students.  OCR also has jurisdiction over the few private elementary and secondary schools that are recipients of federal financial assistance.
 
 If you file a complaint of sex-based discrimination with the DOJ, it can also be reviewed under Title IV of the Civil Rights Act of 1964, which provides similar protections to Title IX at all public schools.
 
 [See more information about filing complaints with the Departments of Justice and Education.]({{ site.baseurl }}/assets/how-to-file-a-complaint.pdf)
 
-</div>
+{% include div-close.html %}
+{% include div.html class="section-context-text" %}
 
-<div class="section-context-text">
 #### Is filing a complaint with the U.S. Department of Justice’s Civil Rights Division the same as filing a complaint with the U.S. Department of Education's Office for Civil Rights?
 
 No, though the process is quite similar. The U.S. Department of Education's Office for Civil Rights (OCR) has the authority to investigate all allegations of Title IX violations at educational institutions that receive federal funding. DOJ can investigate allegations of sex-based discrimination at educational institutions that receive DOJ funds (e.g., [a grant from the Office on Violence Against Women](http://www.ovw.usdoj.gov/grant2013.htm)) under Title IX and at all public schools under Title IV. If you file with both DOJ and OCR, **usually, one agency will conduct the investigation of the school**. Occasionally, both agencies will conduct a joint investigation.
 
 Both OCR and DOJ can and do conduct proactive compliance reviews under Title IX of schools the Departments fund, even in the absence of a complaint.
 
-</div>
-</div>
+{% include div-close.html %}
+{% include div-close.html %}
 
 ### How do I file a complaint with the U.S. Department of Education, Office for Civil Rights?
 
 {% include image.html file="ocrcomplaintinfographic.png" alt="How to file a complaint." %}
-<div class="section-context">
 
-> Adapted from design by Christina S. Kang, licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License.
+{% include div.html class="section-context" %}
+{% include div.html class="resource-cite" %}
 
-</div>
+Adapted from design by Christina S. Kang, licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License.
+
+{% include div-close.html %}
+{% include div-close.html %}
 
 You may file a complaint [online](https://ocrcas.ed.gov/), via [email](mailto:ocr@ed.gov), or by mail/fax by [contacting your regional enforcement office](https://wdcrobcolp01.ed.gov/CFAPPS/OCR/contactus.cfm).
 
-<div class="section-context">
+{% include div.html class="section-context" %}
+
 ### How do I file a complaint with the U.S. Department of Justice?
 
-<div class="section-context-text">
+{% include div.html class="section-context-text" %}
+
 ####You may file a complaint via email, telephone or mail.
 
 E-mail: [education@usdoj.gov](mailto:education@usdoj.gov)
@@ -143,14 +157,14 @@ Telephone: 1-877-292-3804
 
 Write a letter to:
 
-<br>
-**U.S. Department of Justice**<br>
-Civil Rights Division<br>
-950 Pennsylvania Avenue, N.W.<br>
-Educational Opportunities Section, PHB<br>
-Washington, D.C. 20530<br>
-</div>
-<div class="section-context-text">
+**U.S. Department of Justice** \\
+Civil Rights Division \\
+950 Pennsylvania Avenue, N.W. \\
+Educational Opportunities Section, PHB \\
+Washington, D.C. 20530
+
+{% include div-close.html %}
+{% include div.html class="section-context-text" %}
 
 ####Your complaint should include:
 
@@ -161,16 +175,19 @@ Washington, D.C. 20530<br>
 
 After receiving a complaint, DOJ conducts an initial review. DOJ will inform you as to what action can be taken in response to the complaint (e.g., whether DOJ has authority to respond, whether DOJ will open an investigation, or whether DOJ will refer the complaint to another agency).
 
-<div class="section-context-links">
+
 * [Learn more about filing a complaint with the Civil Rights Division](http://www.justice.gov/crt/complaint/)
 
-</div>
-</div>
-</div>
+{% include div-close.html %}
+{% include div-close.html %}
 
 ## Will What I Share With My School Remain Confidential?
 
+{% include div.html class="section-context" %}
+
 ###Understanding Confidentiality
+
+{% include div.html class="section-context-text" %}
 
 Sexual assault survivors respond in different ways. Some are able to be public about what has happened to them. Some are ready to press forward with a formal complaint. Others aren’t so sure. And they need someone they can talk to confidentially -- to try to regain a sense of control, to start healing, and to sort through their options at their own pace.
 
@@ -183,7 +200,8 @@ To help make you more aware of your options, we offer [a sample policy](https://
 
 In general, rape crisis center advocates not associated with the school can speak with you confidentially. But because state law is always changing, be sure to check the accuracy of this information.
 
----
+{% include div-close.html %}
+{% include div.html class="section-context-text" %}
 
 #### State Confidentiality Laws
 While this list is a helpful tool, it is not a replacement for asking the person whether or not they are a confidential resource. Since state law is constantly changing on this issue, **be sure to verify the information** provided in this [guide to state laws covering confidentiality.](http://www.americanbar.org/content/dam/aba/uncategorized/cdsv-related/Advocate_Confidentiality_Chart_2_2014.authcheckdam.pdf)
@@ -195,6 +213,10 @@ Student health records at most schools are protected by a federal law called FER
 * [View answers to frequently asked questions on FERPA and HIPAA and more detailed guidance on the application of FERPA and HIPAA to student health records](http://www.hhs.gov/ocr/privacy/hipaa/faq/ferpa_and_hipaa/)
 * [View joint guidance from the Departments of Education and Health and Human Services on FERPAA and HIPAA](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/hipaaferpajointguide.pdf)
 
+{% include div-close.html %}
+{% include div-close.html %}
+
 
 ## Key Terms and Definitions
+
 {% include key-terms.html %}
