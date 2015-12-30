@@ -5,7 +5,7 @@ description: A list of helpful resources inside and outside of government.
 permalink: /resources/
 ---
 
-##Find a Service Near You
+## Find a Service Near You
 
 {% include service-locator.html %}
 
