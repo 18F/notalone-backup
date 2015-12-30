@@ -149,7 +149,7 @@ You may file a complaint [online](https://ocrcas.ed.gov/), via [email](mailto:oc
 
 {% include div.html class="section-context-text" %}
 
-####You may file a complaint via email, telephone or mail.
+#### You may file a complaint via email, telephone or mail.
 
 E-mail: [education@usdoj.gov](mailto:education@usdoj.gov)
 
@@ -166,7 +166,7 @@ Washington, D.C. 20530
 {% include div-close.html %}
 {% include div.html class="section-context-text" %}
 
-####Your complaint should include:
+#### Your complaint should include:
 
 - Your name
 - Contact information (home or school address)
@@ -185,7 +185,7 @@ After receiving a complaint, DOJ conducts an initial review. DOJ will inform you
 
 {% include div.html class="section-context" %}
 
-###Understanding Confidentiality
+### Understanding Confidentiality
 
 {% include div.html class="section-context-text" %}
 
