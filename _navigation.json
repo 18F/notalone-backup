@@ -11,19 +11,19 @@
     {% endif %}
   {% endfor %}
   {
-    "title": "Resources",
+    "title": "Resources (data)",
     "href": "_data/resources.yml"
   },
   {
-    "title": "Searchable Resources",
+    "title": "Searchable Resources (data)",
     "href": "_data/searchable-resources.yml"
   },
   {
-    "title": "Key Terms",
+    "title": "Key Terms (data)",
     "href": "_data/key-terms.yml"
   },
   {
-    "title": "Navigation",
+    "title": "Navigation (data)",
     "href": "_data/nav.yml"
   }
 ]
