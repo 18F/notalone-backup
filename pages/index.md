@@ -18,6 +18,9 @@ On September 17, 2015, we released a [Resource Guide](https://www.notalone.gov/a
 
 Valerie Jarrett wrote a blog for Yahoo! Parenting on October 9, 2015 to help prospective students and parents, as they visit colleges, to navigate the sexual assault policies, procedures, and resources available on campus. [Read the blog post, “Four Critical Questions for the College Search.”](https://www.notalone.gov/assets/4-questions-you-should-ask.pdf)
 
+[2014 Clery Act Data is now available here]({{site.baseurl}}/data/#clery-act-data) from the Department of Education. It includes, for the first time, the name and contact information for each institution’s lead Title IX coordinator.
+
+
 {% include find-box.html %}
 
 {% include section-box.html title="FIND A CRISIS SERVICE" url="/resources/#find-a-service-near-you" image="find-a-service.png" text="Locate services and resources in your area to get support if you or someone you know is in a crisis situation." class="find-a-service" %}
