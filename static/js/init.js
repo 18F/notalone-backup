@@ -57,7 +57,7 @@ $(document).ready(function () {
 $(function() {
   var last_scrollTop = 0;
 
-  if (window.location.pathname.match(/^\/(students|schools)/)) {
+  if (window.location.pathname.match(/\/(students|schools)\/$/)) {
     $collapsibles = $('h2');
     $collapsibles.wrapInner(function(){
       return "<button title='Expand section'></button>";
