@@ -1,6 +1,5 @@
 name: Not Alone
 description: This contains a nice description of the site.
-logo: logo.png
 
 markdown: kramdown
 
@@ -14,3 +13,6 @@ kramdown:
   parse_block_html: true
 
 cachebuster: '0426131729'
+
+include:
+  - _navigation.json

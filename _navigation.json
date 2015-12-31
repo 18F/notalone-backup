@@ -1,0 +1,29 @@
+---
+---
+
+[
+  {% for page in site.pages %}
+    {% if page.path contains "pages/" %}
+    {
+      "title": "{{ page.title | replace: '"', '\"' }}",
+      "href": "{{ page.path }}"
+    },
+    {% endif %}
+  {% endfor %}
+  {
+    "title": "Resources (data)",
+    "href": "_data/resources.yml"
+  },
+  {
+    "title": "Searchable Resources (data)",
+    "href": "_data/searchable-resources.yml"
+  },
+  {
+    "title": "Key Terms (data)",
+    "href": "_data/key-terms.yml"
+  },
+  {
+    "title": "Navigation (data)",
+    "href": "_data/nav.yml"
+  }
+]

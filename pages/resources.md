@@ -5,11 +5,7 @@ description: A list of helpful resources inside and outside of government.
 permalink: /resources/
 ---
 
-##Find a Service Near You
-
-<div class="service-intro-text">
-Locate services and resources in your area to receive support if you are in a crisis situation or if you want to speak with an advocate. *Please enter your zip code to locate services.*
-</div>
+## Find a Service Near You
 
 {% include service-locator.html %}
 
@@ -32,12 +28,12 @@ Many other websites provide information about campus sexual assault – what it 
 {% include resources-additional.html role="additional" type="student-groups" %}
 
 ### LGBTQ Resources
-Many survivors identify as lesbian, gay, bisexual, transgender, or queer (LGBTQ). Unfortunately, the LGBT community experiences sexual violence at high rates. One study found that 13.2% of bisexual men and 11.6% of gay men were raped in adulthood, compared to 1.6% of heterosexual men. [i](#i){: .cite} According to the CDC, 46% of bisexual women have been raped, compared to 13% of lesbians and 17% of heterosexual women. [ii](#ii){: .cite} Another study found that more than 25% of transgender individuals had been sexually assaulted after the age of 13. [iii](#iii){: .cite} All survivors, regardless of gender identity or sexual orientation, should be able to access resources. The below resources provide supportive, user-friendly services and information for survivors and allies.
+Many survivors identify as lesbian, gay, bisexual, transgender, or queer (LGBTQ). Unfortunately, the LGBT community experiences sexual violence at high rates. One study found that 13.2% of bisexual men and 11.6% of gay men were raped in adulthood, compared to 1.6% of heterosexual men.[^1] According to the CDC, 46% of bisexual women have been raped, compared to 13% of lesbians and 17% of heterosexual women.[^2] Another study found that more than 25% of transgender individuals had been sexually assaulted after the age of 13.[^3] All survivors, regardless of gender identity or sexual orientation, should be able to access resources. The below resources provide supportive, user-friendly services and information for survivors and allies.
 
 {% include resources.html role="lgbtq" %}
 
 ### Disability Resources
-People with physical or mental disabilities may also be at increased risk for sexual assault. A study reported that individuals with a disability were three times more likely to be raped or sexually assaulted than individuals without a disability. [iv](#iv){: .cite} Unfortunately, many people with disabilities experience barriers when attempting to access services and resources. The below resources provide accessible services for students with disabilities and allies:
+People with physical or mental disabilities may also be at increased risk for sexual assault. A study reported that individuals with a disability were three times more likely to be raped or sexually assaulted than individuals without a disability.[^4] Unfortunately, many people with disabilities experience barriers when attempting to access services and resources. The below resources provide accessible services for students with disabilities and allies:
 
 {% include resources.html role="disability" %}
 
@@ -52,6 +48,7 @@ While numbers are difficult to estimate, immigrants and international students f
 {% include resources.html role="undocumented-international" %}
 
 ### Health Resources
+
 [http://locator.aids.gov](http://locator.aids.gov)
 
 Find publicly supported health services including health centers, mental health providers, family planning centers, and substance abuse treatment providers.
@@ -61,11 +58,11 @@ Find publicly supported health services including health centers, mental health 
 *	[Mental health providers](http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/quickSearch.jspx)
 
 [The Office on Women's Health](http://www.womenshealth.gov/violence-against-women/index.html)
-<br>
+
 This webpage includes information on: what rape and sexual assault are; health effects; how to get help; how to stay safe; and where to find more information.
 
 [Health Cares About IPV](http://www.healthcaresaboutipv.org/)
-<br>
+
 Health Cares about IPV is a federally funded program that provides training and technical assistance to over 22,000 health care professionals working to implement best practices for treating intimate partner violence (IPV) and dating violence survivors, including new guidelines to screen for abuse and refer patients to services.
 
 ### Prevention Programs
@@ -83,20 +80,11 @@ Below is a short list of organizations, known to offer credible information abou
 {% include resources-additional.html role="additional" type="offender-treatment"%}
 
 #### Citations
-<div class="cite" id="i">
-(i)	Balsam, K. F., Beauchaine, T. P., & Rothblum, E. D. (2005). Victimization over the life span: A comparison of lesbian, gay, bisexual, and heterosexual siblings. Journal of Consulting and Clinical
-Psychology, 73(3), 477‐487.
-</div>
 
-<div class="cite" id="ii">
-(ii)	Walters, M.L, Chen, J., & Breiding, M.J. (2013). The National Intimate Partner and Sexual Violence Survey (NISVS). Findings on Victimization by Sexual Orientation. National Center for Injury Prevention and Control, Centers for Disease Control and Prevention.
-</div>
+[^1]:	Balsam, K. F., Beauchaine, T. P., & Rothblum, E. D. (2005). Victimization over the life span: A comparison of lesbian, gay, bisexual, and heterosexual siblings. Journal of Consulting and Clinical Psychology, 73(3), 477‐487.
 
-<div class="cite" id="iii">
-(iii)	Testa, R.J., Sciacca, L.M., Wang, F., Hendricks, M.L., Goldblum, P., Bradford, J., & Bongar, B. (2012). Effects of Violence on Transgender People. Professional Psychology: Research and Practice, 43(5), 452-459.
-</div>
+[^2]:	Walters, M.L, Chen, J., & Breiding, M.J. (2013). The National Intimate Partner and Sexual Violence Survey (NISVS). Findings on Victimization by Sexual Orientation. National Center for Injury Prevention and Control, Centers for Disease Control and Prevention.
 
-<div class="cite" id="iv">
-(iv)	Harrell, E. (2012). Crime Against Persons with Disabilities, 2009-2011 – Statistical Tables. Bureau of
-Justice Statistics, U.S. Department of Justice.
-</div>
+[^3]:	Testa, R.J., Sciacca, L.M., Wang, F., Hendricks, M.L., Goldblum, P., Bradford, J., & Bongar, B. (2012). Effects of Violence on Transgender People. Professional Psychology: Research and Practice, 43(5), 452-459.
+
+[^4]: Harrell, E. (2012). Crime Against Persons with Disabilities, 2009-2011 – Statistical Tables. Bureau of Justice Statistics, U.S. Department of Justice.
